@@ -14,5 +14,6 @@ Experimenting with vegetarian and vegan cooking is something I enjoy. Being a mi
 
 ## Recipes
 
-1. [Peanut-Kale soup](recipes/peanut-kale-soup.md)
-2. [Apple chutney pickle](recipes/apple-chutney-pickle.md)
+1. [Apple chutney pickle](recipes/apple-chutney-pickle.md)
+2. [Blueberry Semolina porridge](recipes/blueberry-semolina-porridge.md)
+3. [Peanut-Kale soup](recipes/peanut-kale-soup.md)
