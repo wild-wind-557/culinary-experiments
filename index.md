@@ -19,3 +19,4 @@ Experimenting with vegetarian and vegan cooking is something I enjoy. Being a mi
 3. [Peanut-Kale soup](recipes/peanut-kale-soup.md)
 4. [Ragi and Whole Wheat Idli](recipes/ragi-wheat-idli.md)
 5. [Spicy Beetroot Curry Salad](recipes/spicy-beetroot-curry.md)
+6. [Nutritious Mixed Vegetables Casserole](recipes/veggie-casserole.md)
